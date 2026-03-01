@@ -19,6 +19,7 @@ Baymax Health Advisor is an interactive web chatbot that:
 - Includes Responsible AI safeguards
 - Provides general health guidance with safety disclaimers
 - Escalates serious symptoms appropriately
+- Gives model selection option to users
 
 The chatbot is designed to resemble a clean, modern health-tech product.
 
