@@ -1,6 +1,6 @@
 # README.md
 
-````markdown
+
 # 🤍 Baymax Health Advisor
 
 A Streamlit-based AI chatbot that provides safe, supportive health guidance using the Google Gemini API.
